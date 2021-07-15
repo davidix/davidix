@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">A developer passionate about technology.</h3>
-<!--
+
 <p  align="center">
 <img  alt="Keiko Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=davidix&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
 <span ><img  width="49%"  src="http://github-readme-streak-stats.herokuapp.com?user=davidix&theme=dracula"  alt="davidix"  /></span>
