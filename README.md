@@ -5,7 +5,7 @@
 </h1> 
 
 <h3 align="center">A developer passionate about technology.</h3>
-<!--
+
 <p  align="center">
 <img  alt="Keiko Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=davidix&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
 <span ><img  width="49%"  src="http://github-readme-streak-stats.herokuapp.com?user=davidix&theme=dracula"  alt="davidix"  /></span>
@@ -16,7 +16,7 @@
 <p  align="center">
 <img  alt="davidix Activity Graph"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidix&theme=radical&langs_count=6&layout=compact"  />
 </p>
--->
+
 <!--
 **davidix/davidix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
